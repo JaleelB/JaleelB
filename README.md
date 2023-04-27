@@ -18,5 +18,5 @@ I enjoy working on challenging projects and I'm passionate about web design, aut
 - Docker
 - Figma
 
-## Repos 💻
+### Repos 
 While most of my repositories are currently private, I'm actively working on making more of my projects public for the community to benefit from.
