@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there. I'm Jaleel 👋
 
-<!--
-**JaleelB/JaleelB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Cloud Engineer | Full Stack Devloper 
 
-Here are some ideas to get you started:
+I enjoy working on challenging projects and I'm passionate about web design, automation, and building scalable solutions/applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Tech Stack 
+- TypeScript
+- Javascript
+- React. js
+- Next.js
+- Python
+- C++
+- Tailwind
+- Redux
+- Prisma
+- PlanetScale
+- Docker
+- Figma
+
+## Repos 💻
+While most of my repositories are currently private, I'm actively working on making more of my projects public for the community to benefit from.
