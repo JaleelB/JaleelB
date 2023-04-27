@@ -9,6 +9,7 @@ I enjoy working on challenging projects and I'm passionate about web design, aut
 - React. js, Next.js
 - Tailwind, Redux, Figma
 - Prisma, PlanetScale
-- Docker, Figma
+- Docker, Github Actions, AWS
+- Figma
 
 While most of my repositories are currently private, I'm actively working on making more of my projects public for the community to benefit from.
