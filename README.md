@@ -5,7 +5,7 @@ Junior Cloud Engineer | Full Stack Devloper
 I enjoy working on challenging projects and I'm passionate about web design, automation, and building scalable solutions/applications
 
 #### My Tech Stack 
-- TypeScript, Javascript, Python, C++
+- TypeScript, Javascript, Python, R, C++
 - React. js, Next.js
 - Tailwind, Redux, Figma
 - Prisma, PlanetScale
