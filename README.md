@@ -8,7 +8,7 @@ I enjoy working on challenging projects and I'm passionate about web design, aut
 - TypeScript, Javascript, Python, R, C++
 - React. js, Next.js
 - Tailwind, Redux, Figma
-- Prisma, PlanetScale
+- Prisma, MySQL, PostgreSQL
 - Docker, Github Actions, AWS, Terraform
 - Figma
 
