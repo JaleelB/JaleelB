@@ -7,9 +7,8 @@ I enjoy working on challenging projects and I'm passionate about web design, aut
 #### My Tech Stack 
 - TypeScript, Javascript, Python, Go
 - React. js, Next.js
-- Tailwind, Redux, Figma
+- Tailwind, Figma
 - Prisma, MySQL, PostgreSQL
 - Docker, Github Actions, AWS, Terraform, Ansible
-- Figma
 
 While most of my repositories are currently private, I'm actively working on making more of my projects public for the community to benefit from.
